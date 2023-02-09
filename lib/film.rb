@@ -1,5 +1,4 @@
 class Film
-
   attr_reader :director, :title, :premiere_year
 
   def initialize (title, director, premiere_year)
